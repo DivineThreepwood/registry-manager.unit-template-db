@@ -1,0 +1,9 @@
+{
+  "id": "SMOKE_DETECTOR",
+  "type": "SMOKE_DETECTOR",
+  "service_type": [
+    "SMOKE_STATE_PROVIDER",
+    "SMOKE_ALARM_STATE_PROVIDER"
+  ],
+  "meta_config": {}
+}

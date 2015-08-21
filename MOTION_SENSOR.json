@@ -1,0 +1,8 @@
+{
+  "id": "MOTION_SENSOR",
+  "type": "MOTION_SENSOR",
+  "service_type": [
+    "MOTION_PROVIDER"
+  ],
+  "meta_config": {}
+}

@@ -1,0 +1,8 @@
+{
+  "id": "BUTTON",
+  "type": "BUTTON",
+  "service_type": [
+    "BUTTON_PROVIDER"
+  ],
+  "meta_config": {}
+}

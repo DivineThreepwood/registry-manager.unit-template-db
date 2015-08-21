@@ -1,0 +1,8 @@
+{
+  "id": "BATTERY",
+  "type": "BATTERY",
+  "service_type": [
+    "BATTERY_PROVIDER"
+  ],
+  "meta_config": {}
+}

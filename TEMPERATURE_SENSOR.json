@@ -1,0 +1,8 @@
+{
+  "id": "TEMPERATURE_SENSOR",
+  "type": "TEMPERATURE_SENSOR",
+  "service_type": [
+    "TEMPERATURE_PROVIDER"
+  ],
+  "meta_config": {}
+}

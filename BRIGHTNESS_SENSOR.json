@@ -1,0 +1,8 @@
+{
+  "id": "BRIGHTNESS_SENSOR",
+  "type": "BRIGHTNESS_SENSOR",
+  "service_type": [
+    "BRIGHTNESS_PROVIDER"
+  ],
+  "meta_config": {}
+}

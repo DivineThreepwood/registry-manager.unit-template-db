@@ -1,0 +1,8 @@
+{
+  "id": "ROLLERSHUTTER",
+  "type": "ROLLERSHUTTER",
+  "service_type": [
+    "SHUTTER_SERVICE"
+  ],
+  "meta_config": {}
+}

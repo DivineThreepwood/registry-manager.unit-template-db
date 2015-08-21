@@ -1,0 +1,8 @@
+{
+  "id": "LIGHT",
+  "type": "LIGHT",
+  "service_type": [
+    "POWER_SERVICE"
+  ],
+  "meta_config": {}
+}
