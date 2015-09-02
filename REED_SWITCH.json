@@ -1,4 +1,8 @@
 {
   "id": "REED_SWITCH",
-  "type": "REED_SWITCH"
+  "type": "REED_SWITCH",
+  "service_type": [
+    "REED_SWITCH_PROVIDER"
+  ],
+  "meta_config": {}
 }

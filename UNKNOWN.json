@@ -1,4 +1,8 @@
 {
   "id": "UNKNOWN",
-  "type": "UNKNOWN"
+  "type": "UNKNOWN",
+  "service_type": [
+    "UNKNOWN"
+  ],
+  "meta_config": {}
 }

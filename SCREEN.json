@@ -1,4 +1,9 @@
 {
   "id": "SCREEN",
-  "type": "SCREEN"
+  "type": "SCREEN",
+  "service_type": [
+    "POWER_SERVICE",
+    "STANDBY_SERVICE"
+  ],
+  "meta_config": {}
 }

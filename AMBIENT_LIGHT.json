@@ -1,4 +1,10 @@
 {
   "id": "AMBIENT_LIGHT",
-  "type": "AMBIENT_LIGHT"
+  "type": "AMBIENT_LIGHT",
+  "service_type": [
+    "BRIGHTNESS_SERVICE",
+    "COLOR_SERVICE",
+    "POWER_SERVICE"
+  ],
+  "meta_config": {}
 }

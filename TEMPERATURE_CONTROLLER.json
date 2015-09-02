@@ -1,4 +1,8 @@
 {
   "id": "TEMPERATURE_CONTROLLER",
-  "type": "TEMPERATURE_CONTROLLER"
+  "type": "TEMPERATURE_CONTROLLER",
+  "service_type": [
+    "TEMPERATURE_PROVIDER"
+  ],
+  "meta_config": {}
 }

@@ -2,6 +2,7 @@
   "id": "ROLLERSHUTTER",
   "type": "ROLLERSHUTTER",
   "service_type": [
+    "OPENING_RATIO_PROVIDER",
     "SHUTTER_SERVICE"
   ],
   "meta_config": {}

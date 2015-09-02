@@ -1,4 +1,9 @@
 {
   "id": "DIMMER",
-  "type": "DIMMER"
+  "type": "DIMMER",
+  "service_type": [
+    "DIM_SERVICE",
+    "POWER_SERVICE"
+  ],
+  "meta_config": {}
 }
