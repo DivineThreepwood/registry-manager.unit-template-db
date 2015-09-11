@@ -2,7 +2,8 @@
   "id": "TEMPERATURE_CONTROLLER",
   "type": "TEMPERATURE_CONTROLLER",
   "service_type": [
-    "TEMPERATURE_PROVIDER"
+    "TEMPERATURE_PROVIDER",
+    "TARGET_TEMPERATURE_SERVICE"
   ],
   "meta_config": {}
 }
