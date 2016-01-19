@@ -1,6 +1,10 @@
 {
   "id": "AMBIENT_LIGHT",
   "type": "AMBIENT_LIGHT",
+  "included_type": [
+    "LIGHT",
+    "DIMMER"
+  ],
   "service_type": [
     "BRIGHTNESS_SERVICE",
     "COLOR_SERVICE",

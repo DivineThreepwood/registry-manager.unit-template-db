@@ -1,6 +1,9 @@
 {
   "id": "DIMMER",
   "type": "DIMMER",
+  "included_type": [
+    "LIGHT"
+  ],
   "service_type": [
     "DIM_SERVICE",
     "POWER_SERVICE"
