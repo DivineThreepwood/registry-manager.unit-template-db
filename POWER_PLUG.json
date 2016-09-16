@@ -1,8 +1,0 @@
-{
-  "id": "POWER_PLUG",
-  "type": "POWER_PLUG",
-  "service_type": [
-    "POWER_SERVICE"
-  ],
-  "meta_config": {}
-}

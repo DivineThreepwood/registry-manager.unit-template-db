@@ -1,8 +1,11 @@
 {
   "id": "POWER_CONSUMPTION_SENSOR",
   "type": "POWER_CONSUMPTION_SENSOR",
-  "service_type": [
-    "POWER_CONSUMPTION_PROVIDER"
+  "service_template": [
+    {
+      "type": "POWER_CONSUMPTION_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
   ],
   "meta_config": {}
 }

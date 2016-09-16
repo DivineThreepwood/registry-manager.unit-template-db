@@ -1,8 +1,11 @@
 {
   "id": "BRIGHTNESS_SENSOR",
   "type": "BRIGHTNESS_SENSOR",
-  "service_type": [
-    "BRIGHTNESS_PROVIDER"
+  "service_template": [
+    {
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
   ],
   "meta_config": {}
 }

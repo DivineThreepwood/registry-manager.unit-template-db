@@ -1,8 +1,0 @@
-{
-  "id": "TAMPER_SWITCH",
-  "type": "TAMPER_SWITCH",
-  "service_type": [
-    "TAMPER_PROVIDER"
-  ],
-  "meta_config": {}
-}

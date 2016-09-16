@@ -1,8 +1,11 @@
 {
   "id": "BATTERY",
   "type": "BATTERY",
-  "service_type": [
-    "BATTERY_PROVIDER"
+  "service_template": [
+    {
+      "type": "BATTERY_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
   ],
   "meta_config": {}
 }

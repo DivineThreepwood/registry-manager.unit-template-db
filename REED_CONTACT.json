@@ -1,9 +1,9 @@
 {
-  "id": "BUTTON",
-  "type": "BUTTON",
+  "id": "REED_CONTACT",
+  "type": "REED_CONTACT",
   "service_template": [
     {
-      "type": "BUTTON_STATE_SERVICE",
+      "type": "CONTACT_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
   ],

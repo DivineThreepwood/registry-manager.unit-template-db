@@ -1,6 +1,6 @@
 {
-  "id": "LIGHT",
-  "type": "LIGHT",
+  "id": "MONITOR",
+  "type": "MONITOR",
   "service_template": [
     {
       "type": "POWER_STATE_SERVICE",
@@ -8,6 +8,14 @@
     },
     {
       "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    },
+    {
+      "type": "STANDBY_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "STANDBY_STATE_SERVICE",
       "pattern": "OPERATION"
     }
   ],

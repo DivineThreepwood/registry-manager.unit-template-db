@@ -1,9 +1,0 @@
-{
-  "id": "ROLLERSHUTTER",
-  "type": "ROLLERSHUTTER",
-  "service_type": [
-    "OPENING_RATIO_SERVICE",
-    "SHUTTER_SERVICE"
-  ],
-  "meta_config": {}
-}

@@ -4,9 +4,23 @@
   "included_type": [
     "LIGHT"
   ],
-  "service_type": [
-    "DIM_SERVICE",
-    "POWER_SERVICE"
+  "service_template": [
+    {
+      "type": "INTENSITY_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "INTENSITY_STATE_SERVICE",
+      "pattern": "OPERATION"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
   ],
   "meta_config": {}
 }

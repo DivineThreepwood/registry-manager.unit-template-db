@@ -1,0 +1,11 @@
+{
+  "id": "MOTION_DETECTOR",
+  "type": "MOTION_DETECTOR",
+  "service_template": [
+    {
+      "type": "MOTION_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

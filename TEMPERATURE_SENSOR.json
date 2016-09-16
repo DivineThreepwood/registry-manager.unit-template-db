@@ -1,9 +1,15 @@
 {
   "id": "TEMPERATURE_SENSOR",
   "type": "TEMPERATURE_SENSOR",
-  "service_type": [
-    "TEMPERATURE_ALARM_STATE_PROVIDER",
-    "TEMPERATURE_PROVIDER"
+  "service_template": [
+    {
+      "type": "TEMPERATURE_ALARM_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "TEMPERATURE_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
   ],
   "meta_config": {}
 }

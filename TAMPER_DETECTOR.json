@@ -1,0 +1,11 @@
+{
+  "id": "TAMPER_DETECTOR",
+  "type": "TAMPER_DETECTOR",
+  "service_template": [
+    {
+      "type": "TAMPER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

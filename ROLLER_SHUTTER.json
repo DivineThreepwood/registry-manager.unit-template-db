@@ -1,13 +1,13 @@
 {
-  "id": "LIGHT",
-  "type": "LIGHT",
+  "id": "ROLLER_SHUTTER",
+  "type": "ROLLER_SHUTTER",
   "service_template": [
     {
-      "type": "POWER_STATE_SERVICE",
+      "type": "BLIND_STATE_SERVICE",
       "pattern": "PROVIDER"
     },
     {
-      "type": "POWER_STATE_SERVICE",
+      "type": "BLIND_STATE_SERVICE",
       "pattern": "OPERATION"
     }
   ],

@@ -1,8 +1,0 @@
-{
-  "id": "HANDLE_SENSOR",
-  "type": "HANDLE_SENSOR",
-  "service_type": [
-    "HANDLE_PROVIDER"
-  ],
-  "meta_config": {}
-}
