@@ -1,0 +1,11 @@
+{
+  "id": "caafd0bb-51bc-406a-bc30-01f6a7897b04",
+  "type": "BATTERY",
+  "service_template": [
+    {
+      "type": "BATTERY_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

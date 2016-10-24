@@ -1,0 +1,26 @@
+{
+  "id": "70d462ff-30be-4c3d-a3d4-ac6e8580c837",
+  "type": "DIMMER",
+  "included_type": [
+    "LIGHT"
+  ],
+  "service_template": [
+    {
+      "type": "INTENSITY_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "INTENSITY_STATE_SERVICE",
+      "pattern": "OPERATION"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
+  ],
+  "meta_config": {}
+}

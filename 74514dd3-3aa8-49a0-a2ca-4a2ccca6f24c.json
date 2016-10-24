@@ -1,0 +1,11 @@
+{
+  "id": "74514dd3-3aa8-49a0-a2ca-4a2ccca6f24c",
+  "type": "HANDLE",
+  "service_template": [
+    {
+      "type": "HANDLE_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

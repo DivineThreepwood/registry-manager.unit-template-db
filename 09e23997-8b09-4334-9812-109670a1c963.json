@@ -1,0 +1,11 @@
+{
+  "id": "09e23997-8b09-4334-9812-109670a1c963",
+  "type": "BUTTON",
+  "service_template": [
+    {
+      "type": "BUTTON_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

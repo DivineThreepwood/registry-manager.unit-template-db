@@ -1,0 +1,23 @@
+{
+  "id": "eee427e6-18e1-4b64-9267-cdb6f947123d",
+  "type": "MONITOR",
+  "service_template": [
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    },
+    {
+      "type": "STANDBY_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "STANDBY_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
+  ],
+  "meta_config": {}
+}

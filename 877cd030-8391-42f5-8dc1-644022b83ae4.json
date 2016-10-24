@@ -1,0 +1,11 @@
+{
+  "id": "877cd030-8391-42f5-8dc1-644022b83ae4",
+  "type": "REED_CONTACT",
+  "service_template": [
+    {
+      "type": "CONTACT_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

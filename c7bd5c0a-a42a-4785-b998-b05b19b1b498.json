@@ -1,0 +1,15 @@
+{
+  "id": "c7bd5c0a-a42a-4785-b998-b05b19b1b498",
+  "type": "SMOKE_DETECTOR",
+  "service_template": [
+    {
+      "type": "SMOKE_ALARM_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "SMOKE_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "213df7f7-3dfc-43dc-9b14-819516bea03e",
+  "type": "COLORABLE_LIGHT",
+  "included_type": [
+    "LIGHT",
+    "DIMMER"
+  ],
+  "service_template": [
+    {
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "OPERATION"
+    },
+    {
+      "type": "COLOR_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "COLOR_STATE_SERVICE",
+      "pattern": "OPERATION"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
+  ],
+  "meta_config": {}
+}

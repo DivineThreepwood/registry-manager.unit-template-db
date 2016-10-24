@@ -1,0 +1,11 @@
+{
+  "id": "708bb69b-b1d2-49ed-a316-870b687db660",
+  "type": "TAMPER_DETECTOR",
+  "service_template": [
+    {
+      "type": "TAMPER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ],
+  "meta_config": {}
+}

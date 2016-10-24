@@ -1,0 +1,19 @@
+{
+  "id": "8736bfa7-5a8f-4e5f-b409-6caa1dfa8ed0",
+  "type": "TEMPERATURE_CONTROLLER",
+  "service_template": [
+    {
+      "type": "TEMPERATURE_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "TARGET_TEMPERATURE_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "TARGET_TEMPERATURE_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
+  ],
+  "meta_config": {}
+}

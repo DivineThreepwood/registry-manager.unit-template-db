@@ -1,0 +1,15 @@
+{
+  "id": "7deabcdc-88d2-4b6c-bc65-d92f83184947",
+  "type": "LIGHT",
+  "service_template": [
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
+  ],
+  "meta_config": {}
+}

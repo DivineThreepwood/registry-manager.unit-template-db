@@ -1,0 +1,15 @@
+{
+  "id": "b8c015d1-e15d-4c79-99ed-661b63638aaf",
+  "type": "POWER_SWITCH",
+  "service_template": [
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION"
+    }
+  ],
+  "meta_config": {}
+}
