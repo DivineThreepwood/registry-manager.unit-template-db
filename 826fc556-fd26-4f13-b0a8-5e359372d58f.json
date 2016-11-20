@@ -1,4 +1,8 @@
 {
   "id": "826fc556-fd26-4f13-b0a8-5e359372d58f",
-  "type": "DIMMABLE_LIGHT"
+  "type": "DIMMABLE_LIGHT",
+  "included_type": [
+    "LIGHT"
+  ],
+  "meta_config": {}
 }

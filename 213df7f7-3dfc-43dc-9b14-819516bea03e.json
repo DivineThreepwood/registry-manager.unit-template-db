@@ -2,33 +2,38 @@
   "id": "213df7f7-3dfc-43dc-9b14-819516bea03e",
   "type": "COLORABLE_LIGHT",
   "included_type": [
-    "LIGHT",
-    "DIMMER"
+    "DIMMABLE_LIGHT"
   ],
   "service_template": [
     {
       "type": "BRIGHTNESS_STATE_SERVICE",
-      "pattern": "PROVIDER"
+      "pattern": "PROVIDER",
+      "meta_config": {}
     },
     {
       "type": "BRIGHTNESS_STATE_SERVICE",
-      "pattern": "OPERATION"
+      "pattern": "OPERATION",
+      "meta_config": {}
     },
     {
       "type": "COLOR_STATE_SERVICE",
-      "pattern": "PROVIDER"
+      "pattern": "PROVIDER",
+      "meta_config": {}
     },
     {
       "type": "COLOR_STATE_SERVICE",
-      "pattern": "OPERATION"
+      "pattern": "OPERATION",
+      "meta_config": {}
     },
     {
       "type": "POWER_STATE_SERVICE",
-      "pattern": "PROVIDER"
+      "pattern": "PROVIDER",
+      "meta_config": {}
     },
     {
       "type": "POWER_STATE_SERVICE",
-      "pattern": "OPERATION"
+      "pattern": "OPERATION",
+      "meta_config": {}
     }
   ],
   "meta_config": {}

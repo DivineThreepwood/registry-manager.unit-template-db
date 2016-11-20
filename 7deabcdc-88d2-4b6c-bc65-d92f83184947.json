@@ -4,11 +4,13 @@
   "service_template": [
     {
       "type": "POWER_STATE_SERVICE",
-      "pattern": "PROVIDER"
+      "pattern": "PROVIDER",
+      "meta_config": {}
     },
     {
       "type": "POWER_STATE_SERVICE",
-      "pattern": "OPERATION"
+      "pattern": "OPERATION",
+      "meta_config": {}
     }
   ],
   "meta_config": {}
