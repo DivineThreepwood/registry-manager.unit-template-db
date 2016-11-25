@@ -1,4 +1,16 @@
 {
   "id": "cd25dcc2-11db-4f20-95cd-92687896edc2",
-  "type": "AGENT"
+  "type": "AGENT",
+  "service_template": [
+    {
+      "type": "ACTIVATION_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    },
+    {
+      "type": "ACTIVATION_STATE_SERVICE",
+      "meta_config": {}
+    }
+  ],
+  "meta_config": {}
 }

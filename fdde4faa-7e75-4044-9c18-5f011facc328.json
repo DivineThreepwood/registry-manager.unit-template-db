@@ -1,4 +1,16 @@
 {
   "id": "fdde4faa-7e75-4044-9c18-5f011facc328",
-  "type": "SCENE"
+  "type": "SCENE",
+  "service_template": [
+    {
+      "type": "ACTIVATION_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    },
+    {
+      "type": "ACTIVATION_STATE_SERVICE",
+      "meta_config": {}
+    }
+  ],
+  "meta_config": {}
 }
