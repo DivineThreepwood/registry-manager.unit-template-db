@@ -1,4 +1,51 @@
 {
   "id": "208942f9-a250-422b-82e5-e15381758a2b",
-  "type": "LOCATION"
+  "type": "LOCATION",
+  "service_template": [
+    {
+      "type": "BLIND_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "COLOR_STATE_SERVICE",
+      "pattern": "PROVIDER",
+      "meta_config": {}
+    },
+    {
+      "type": "POWER_CONSUMPTION_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "SMOKE_ALARM_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "TEMPERATURE_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "BLIND_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    },
+    {
+      "type": "COLOR_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    },
+    {
+      "type": "MOTION_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "meta_config": {}
+    }
+  ],
+  "meta_config": {}
 }
