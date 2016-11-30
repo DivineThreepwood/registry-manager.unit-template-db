@@ -1,4 +1,19 @@
 {
   "id": "3cc8c6c3-08f3-4879-9068-9f7b5ff8dcea",
-  "type": "CONNECTION"
+  "type": "CONNECTION",
+  "service_template": [
+    {
+      "type": "DOOR_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "PASSAGE_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "WINDOW_STATE_SERVICE",
+      "meta_config": {}
+    }
+  ],
+  "meta_config": {}
 }
