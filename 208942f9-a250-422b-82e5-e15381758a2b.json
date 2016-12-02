@@ -45,6 +45,11 @@
     {
       "type": "POWER_STATE_SERVICE",
       "meta_config": {}
+    },
+    {
+      "type": "PRESENCE_STATE_SERVICE",
+      "pattern": "PROVIDER",
+      "meta_config": {}
     }
   ],
   "meta_config": {}
