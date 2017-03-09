@@ -72,6 +72,19 @@
       "type": "TARGET_TEMPERATURE_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
+    },
+    {
+      "type": "ILLUMINANCE_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
     }
   ],
   "meta_config": {}
