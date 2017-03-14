@@ -1,0 +1,10 @@
+{
+  "id": "8853332f-f07e-4979-98ad-9cd77667643b",
+  "type": "LIGHT_SENSOR",
+  "service_template": [
+    {
+      "type": "ILLUMINANCE_STATE_SERVICE",
+      "pattern": "PROVIDER"
+    }
+  ]
+}
