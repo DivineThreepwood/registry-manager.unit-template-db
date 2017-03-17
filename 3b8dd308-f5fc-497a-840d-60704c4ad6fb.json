@@ -1,4 +1,26 @@
 {
   "id": "3b8dd308-f5fc-497a-840d-60704c4ad6fb",
-  "type": "UNIT_GROUP"
+  "type": "UNIT_GROUP",
+  "service_template": [
+    {
+      "type": "COLOR_STATE_SERVICE",
+      "pattern": "PROVIDER",
+      "meta_config": {}
+    },
+    {
+      "type": "COLOR_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "type": "POWER_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    }
+  ],
+  "meta_config": {}
 }
