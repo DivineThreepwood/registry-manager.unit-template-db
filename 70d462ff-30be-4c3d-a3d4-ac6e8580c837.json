@@ -6,20 +6,24 @@
   ],
   "service_template": [
     {
-      "type": "INTENSITY_STATE_SERVICE",
-      "pattern": "PROVIDER"
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "PROVIDER",
+      "meta_config": {}
     },
     {
-      "type": "INTENSITY_STATE_SERVICE",
-      "pattern": "OPERATION"
+      "type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
     },
     {
       "type": "POWER_STATE_SERVICE",
-      "pattern": "PROVIDER"
+      "pattern": "PROVIDER",
+      "meta_config": {}
     },
     {
       "type": "POWER_STATE_SERVICE",
-      "pattern": "OPERATION"
+      "pattern": "OPERATION",
+      "meta_config": {}
     }
   ],
   "meta_config": {}
