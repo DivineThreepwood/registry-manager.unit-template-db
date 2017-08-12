@@ -1,20 +1,24 @@
 {
   "id": "eee427e6-18e1-4b64-9267-cdb6f947123d",
   "type": "MONITOR",
-  "service_template": [
+  "service_description": [
     {
+      "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",
       "type": "POWER_STATE_SERVICE",
       "pattern": "PROVIDER"
     },
     {
+      "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",
       "type": "POWER_STATE_SERVICE",
       "pattern": "OPERATION"
     },
     {
+      "service_template_id": "f36cd89a-a3c6-4ca9-9bb0-972ab5ed4cec",
       "type": "STANDBY_STATE_SERVICE",
       "pattern": "PROVIDER"
     },
     {
+      "service_template_id": "f36cd89a-a3c6-4ca9-9bb0-972ab5ed4cec",
       "type": "STANDBY_STATE_SERVICE",
       "pattern": "OPERATION"
     }

@@ -1,8 +1,9 @@
 {
   "id": "caafd0bb-51bc-406a-bc30-01f6a7897b04",
   "type": "BATTERY",
-  "service_template": [
+  "service_description": [
     {
+      "service_template_id": "d1dd033f-9dae-46fb-9355-a32b0b898db7",
       "type": "BATTERY_STATE_SERVICE",
       "pattern": "PROVIDER"
     }

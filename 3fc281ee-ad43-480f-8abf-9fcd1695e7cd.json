@@ -1,12 +1,14 @@
 {
   "id": "3fc281ee-ad43-480f-8abf-9fcd1695e7cd",
   "type": "ROLLER_SHUTTER",
-  "service_template": [
+  "service_description": [
     {
+      "service_template_id": "a2175895-7dcf-4d51-96aa-dcb01b47ed04",
       "type": "BLIND_STATE_SERVICE",
       "pattern": "PROVIDER"
     },
     {
+      "service_template_id": "a2175895-7dcf-4d51-96aa-dcb01b47ed04",
       "type": "BLIND_STATE_SERVICE",
       "pattern": "OPERATION"
     }

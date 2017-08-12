@@ -1,8 +1,9 @@
 {
   "id": "74514dd3-3aa8-49a0-a2ca-4a2ccca6f24c",
   "type": "HANDLE",
-  "service_template": [
+  "service_description": [
     {
+      "service_template_id": "78c0d99c-d032-4255-a57b-3db5fd4d6f3d",
       "type": "HANDLE_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
