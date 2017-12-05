@@ -1,29 +1,4 @@
 {
   "id": "59651105-3682-47fe-9796-3eafe85b2cd5",
-  "type": "USER",
-  "service_description": [
-    {
-      "service_template_id": "14bf74e2-dce4-47c7-9c58-cc85dea24ed5",
-      "type": "USER_ACTIVITY_STATE_SERVICE",
-      "meta_config": {}
-    },
-    {
-      "service_template_id": "14bf74e2-dce4-47c7-9c58-cc85dea24ed5",
-      "type": "USER_ACTIVITY_STATE_SERVICE",
-      "pattern": "OPERATION",
-      "meta_config": {}
-    },
-    {
-      "service_template_id": "4537a330-af91-4499-bc3b-3c559e9b6ea0",
-      "type": "USER_PRESENCE_STATE_SERVICE",
-      "meta_config": {}
-    },
-    {
-      "service_template_id": "4537a330-af91-4499-bc3b-3c559e9b6ea0",
-      "type": "USER_PRESENCE_STATE_SERVICE",
-      "pattern": "OPERATION",
-      "meta_config": {}
-    }
-  ],
-  "meta_config": {}
+  "type": "USER"
 }
