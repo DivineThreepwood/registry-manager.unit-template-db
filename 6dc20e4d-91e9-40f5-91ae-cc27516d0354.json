@@ -1,4 +1,14 @@
 {
   "id": "6dc20e4d-91e9-40f5-91ae-cc27516d0354",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Video Rgb Source"
+        ]
+      }
+    ]
+  },
   "type": "VIDEO_RGB_SOURCE"
 }

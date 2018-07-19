@@ -1,4 +1,14 @@
 {
   "id": "960728ca-9073-486c-9e7f-569a1fcb90f9",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Rfid"
+        ]
+      }
+    ]
+  },
   "type": "RFID"
 }

@@ -1,4 +1,14 @@
 {
   "id": "d8ecba66-3b68-4613-90ce-1b577daa87f7",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Audio Sink"
+        ]
+      }
+    ]
+  },
   "type": "AUDIO_SINK"
 }

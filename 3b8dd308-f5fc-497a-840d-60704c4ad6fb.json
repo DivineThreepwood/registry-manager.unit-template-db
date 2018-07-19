@@ -1,27 +1,37 @@
 {
   "id": "3b8dd308-f5fc-497a-840d-60704c4ad6fb",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Unit Group"
+        ]
+      }
+    ]
+  },
   "type": "UNIT_GROUP",
   "service_description": [
     {
       "service_template_id": "0f9527d7-d6f8-4a09-af14-1a8d91c264bd",
-      "type": "COLOR_STATE_SERVICE",
+      "service_type": "COLOR_STATE_SERVICE",
       "pattern": "PROVIDER",
       "meta_config": {}
     },
     {
       "service_template_id": "0f9527d7-d6f8-4a09-af14-1a8d91c264bd",
-      "type": "COLOR_STATE_SERVICE",
+      "service_type": "COLOR_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
     },
     {
       "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",
-      "type": "POWER_STATE_SERVICE",
+      "service_type": "POWER_STATE_SERVICE",
       "meta_config": {}
     },
     {
       "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",
-      "type": "POWER_STATE_SERVICE",
+      "service_type": "POWER_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
     }

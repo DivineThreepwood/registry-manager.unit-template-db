@@ -1,16 +1,26 @@
 {
   "id": "fdde4faa-7e75-4044-9c18-5f011facc328",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Scene"
+        ]
+      }
+    ]
+  },
   "type": "SCENE",
   "service_description": [
     {
       "service_template_id": "f75053d2-7345-4928-ade6-eb3b4486ced9",
-      "type": "ACTIVATION_STATE_SERVICE",
+      "service_type": "ACTIVATION_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
     },
     {
       "service_template_id": "f75053d2-7345-4928-ade6-eb3b4486ced9",
-      "type": "ACTIVATION_STATE_SERVICE",
+      "service_type": "ACTIVATION_STATE_SERVICE",
       "meta_config": {}
     }
   ],

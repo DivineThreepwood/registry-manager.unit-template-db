@@ -1,4 +1,14 @@
 {
   "id": "83a40500-8c41-4f11-8297-ae4661a5b045",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Audio Source"
+        ]
+      }
+    ]
+  },
   "type": "AUDIO_SOURCE"
 }

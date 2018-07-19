@@ -1,5 +1,15 @@
 {
   "id": "213df7f7-3dfc-43dc-9b14-819516bea03e",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Colorable Light"
+        ]
+      }
+    ]
+  },
   "type": "COLORABLE_LIGHT",
   "included_type": [
     "DIMMABLE_LIGHT"
@@ -7,37 +17,37 @@
   "service_description": [
     {
       "service_template_id": "35f4375a-2ed2-4df2-bcf1-ebc090ca07f9",
-      "type": "BRIGHTNESS_STATE_SERVICE",
+      "service_type": "BRIGHTNESS_STATE_SERVICE",
       "pattern": "PROVIDER",
       "meta_config": {}
     },
     {
       "service_template_id": "35f4375a-2ed2-4df2-bcf1-ebc090ca07f9",
-      "type": "BRIGHTNESS_STATE_SERVICE",
+      "service_type": "BRIGHTNESS_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
     },
     {
       "service_template_id": "0f9527d7-d6f8-4a09-af14-1a8d91c264bd",
-      "type": "COLOR_STATE_SERVICE",
+      "service_type": "COLOR_STATE_SERVICE",
       "pattern": "PROVIDER",
       "meta_config": {}
     },
     {
       "service_template_id": "0f9527d7-d6f8-4a09-af14-1a8d91c264bd",
-      "type": "COLOR_STATE_SERVICE",
+      "service_type": "COLOR_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
     },
     {
       "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",
-      "type": "POWER_STATE_SERVICE",
+      "service_type": "POWER_STATE_SERVICE",
       "pattern": "PROVIDER",
       "meta_config": {}
     },
     {
       "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",
-      "type": "POWER_STATE_SERVICE",
+      "service_type": "POWER_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
     }

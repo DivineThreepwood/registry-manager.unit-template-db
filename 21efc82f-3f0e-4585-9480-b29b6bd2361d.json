@@ -1,4 +1,14 @@
 {
   "id": "21efc82f-3f0e-4585-9480-b29b6bd2361d",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Video Depth Source"
+        ]
+      }
+    ]
+  },
   "type": "VIDEO_DEPTH_SOURCE"
 }

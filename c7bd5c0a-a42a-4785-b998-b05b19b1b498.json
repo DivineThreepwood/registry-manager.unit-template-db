@@ -1,15 +1,25 @@
 {
   "id": "c7bd5c0a-a42a-4785-b998-b05b19b1b498",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Smoke Detector"
+        ]
+      }
+    ]
+  },
   "type": "SMOKE_DETECTOR",
   "service_description": [
     {
       "service_template_id": "f33ce258-1d4d-4c0b-8721-8793494ea035",
-      "type": "SMOKE_ALARM_STATE_SERVICE",
+      "service_type": "SMOKE_ALARM_STATE_SERVICE",
       "pattern": "PROVIDER"
     },
     {
       "service_template_id": "ce7fedbe-e6b1-41ae-993e-e07acfa58344",
-      "type": "SMOKE_STATE_SERVICE",
+      "service_type": "SMOKE_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
   ],

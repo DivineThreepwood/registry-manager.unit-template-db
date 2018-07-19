@@ -1,15 +1,25 @@
 {
   "id": "3d7ac0f5-42c6-42bf-a006-e1af57a78615",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Temperature Sensor"
+        ]
+      }
+    ]
+  },
   "type": "TEMPERATURE_SENSOR",
   "service_description": [
     {
       "service_template_id": "14f52fce-8ec0-4f9d-8279-47547381473a",
-      "type": "TEMPERATURE_ALARM_STATE_SERVICE",
+      "service_type": "TEMPERATURE_ALARM_STATE_SERVICE",
       "pattern": "PROVIDER"
     },
     {
       "service_template_id": "0512aab5-78cf-4464-b699-078f6f3dfdc9",
-      "type": "TEMPERATURE_STATE_SERVICE",
+      "service_type": "TEMPERATURE_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
   ],

@@ -1,4 +1,14 @@
 {
   "id": "8c22681e-605b-420e-b677-5cb7c7b62f33",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Display"
+        ]
+      }
+    ]
+  },
   "type": "DISPLAY"
 }

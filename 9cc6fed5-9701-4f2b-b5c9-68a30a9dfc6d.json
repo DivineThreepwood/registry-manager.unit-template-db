@@ -1,10 +1,20 @@
 {
   "id": "9cc6fed5-9701-4f2b-b5c9-68a30a9dfc6d",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Motion Detector"
+        ]
+      }
+    ]
+  },
   "type": "MOTION_DETECTOR",
   "service_description": [
     {
       "service_template_id": "4ebe8edc-01be-4500-83a1-f753b306aa0f",
-      "type": "MOTION_STATE_SERVICE",
+      "service_type": "MOTION_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
   ],

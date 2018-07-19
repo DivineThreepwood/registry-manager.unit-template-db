@@ -1,10 +1,20 @@
 {
   "id": "877cd030-8391-42f5-8dc1-644022b83ae4",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Reed Contact"
+        ]
+      }
+    ]
+  },
   "type": "REED_CONTACT",
   "service_description": [
     {
       "service_template_id": "7a3eaa02-2d76-4c93-9c66-4da45ea7bafa",
-      "type": "CONTACT_STATE_SERVICE",
+      "service_type": "CONTACT_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
   ],

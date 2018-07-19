@@ -1,4 +1,14 @@
 {
   "id": "99378ec0-48f0-4474-bff8-64751840b6a2",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Authorization Group"
+        ]
+      }
+    ]
+  },
   "type": "AUTHORIZATION_GROUP"
 }
