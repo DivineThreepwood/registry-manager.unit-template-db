@@ -34,6 +34,17 @@
       "service_type": "POWER_STATE_SERVICE",
       "pattern": "OPERATION",
       "meta_config": {}
+    },
+    {
+      "service_template_id": "35f4375a-2ed2-4df2-bcf1-ebc090ca07f9",
+      "service_type": "BRIGHTNESS_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "service_template_id": "35f4375a-2ed2-4df2-bcf1-ebc090ca07f9",
+      "service_type": "BRIGHTNESS_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
     }
   ],
   "meta_config": {}
