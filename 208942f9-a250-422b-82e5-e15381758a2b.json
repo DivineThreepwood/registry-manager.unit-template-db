@@ -80,7 +80,7 @@
       "service_template_id": "5d664e5a-6fa3-433a-a1e0-ca81d79aacff",
       "service_type": "PRESENCE_STATE_SERVICE",
       "pattern": "PROVIDER",
-      "aggregated": true,
+      "aggregated": false,
       "meta_config": {}
     },
     {
