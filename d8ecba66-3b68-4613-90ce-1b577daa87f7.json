@@ -10,5 +10,13 @@
       }
     ]
   },
-  "type": "AUDIO_SINK"
+  "type": "AUDIO_SINK",
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "NOISE"
+      }
+    ]
+  }
 }

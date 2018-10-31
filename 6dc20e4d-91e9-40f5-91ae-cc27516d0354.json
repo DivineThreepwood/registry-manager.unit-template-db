@@ -10,5 +10,13 @@
       }
     ]
   },
-  "type": "VIDEO_RGB_SOURCE"
+  "type": "VIDEO_RGB_SOURCE",
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "LIGHT"
+      }
+    ]
+  }
 }

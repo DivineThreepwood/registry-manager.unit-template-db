@@ -10,5 +10,6 @@
       }
     ]
   },
-  "type": "DISPLAY"
+  "type": "DISPLAY",
+  "meta_config": {}
 }

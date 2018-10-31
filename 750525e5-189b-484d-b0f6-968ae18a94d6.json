@@ -10,5 +10,13 @@
       }
     ]
   },
-  "type": "TELEVISION"
+  "type": "TELEVISION",
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "LIGHT,NOISE"
+      }
+    ]
+  }
 }

@@ -17,5 +17,13 @@
       "service_type": "ILLUMINANCE_STATE_SERVICE",
       "pattern": "PROVIDER"
     }
-  ]
+  ],
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "LIGHT"
+      }
+    ]
+  }
 }

@@ -135,5 +135,9 @@
       "meta_config": {}
     }
   ],
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {}
+    ]
+  }
 }

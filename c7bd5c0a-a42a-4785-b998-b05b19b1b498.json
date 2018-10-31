@@ -23,5 +23,12 @@
       "pattern": "PROVIDER"
     }
   ],
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "SMOKE,NOISE"
+      }
+    ]
+  }
 }

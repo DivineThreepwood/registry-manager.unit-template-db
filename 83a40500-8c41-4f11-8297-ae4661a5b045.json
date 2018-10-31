@@ -10,5 +10,13 @@
       }
     ]
   },
-  "type": "AUDIO_SOURCE"
+  "type": "AUDIO_SOURCE",
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "NOISE"
+      }
+    ]
+  }
 }

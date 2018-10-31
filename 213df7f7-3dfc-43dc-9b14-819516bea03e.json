@@ -52,5 +52,12 @@
       "meta_config": {}
     }
   ],
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "LIGHT"
+      }
+    ]
+  }
 }
