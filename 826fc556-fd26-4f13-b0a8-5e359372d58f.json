@@ -11,7 +11,7 @@
     ]
   },
   "type": "DIMMABLE_LIGHT",
-  "included_type": [
+  "super_type": [
     "LIGHT"
   ],
   "service_description": [
