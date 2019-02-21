@@ -133,6 +133,17 @@
       "pattern": "OPERATION",
       "aggregated": true,
       "meta_config": {}
+    },
+    {
+      "service_template_id": "11fab7b2-65d2-43b4-897e-fb698cc92c8e",
+      "service_type": "EMPHASIS_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "service_template_id": "11fab7b2-65d2-43b4-897e-fb698cc92c8e",
+      "service_type": "EMPHASIS_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
     }
   ],
   "meta_config": {
