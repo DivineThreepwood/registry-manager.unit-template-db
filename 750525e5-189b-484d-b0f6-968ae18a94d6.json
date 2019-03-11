@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "TELEVISION",
+  "unit_type": "TELEVISION",
   "meta_config": {
     "entry": [
       {

@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "BATTERY",
+  "unit_type": "BATTERY",
   "service_description": [
     {
       "service_template_id": "d1dd033f-9dae-46fb-9355-a32b0b898db7",

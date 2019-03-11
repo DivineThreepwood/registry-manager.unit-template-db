@@ -10,6 +10,6 @@
       }
     ]
   },
-  "type": "DISPLAY",
+  "unit_type": "DISPLAY",
   "meta_config": {}
 }

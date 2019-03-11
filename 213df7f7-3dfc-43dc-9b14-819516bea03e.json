@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "COLORABLE_LIGHT",
+  "unit_type": "COLORABLE_LIGHT",
   "super_type": [
     "DIMMABLE_LIGHT"
   ],

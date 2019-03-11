@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "AUDIO_SINK",
+  "unit_type": "AUDIO_SINK",
   "meta_config": {
     "entry": [
       {

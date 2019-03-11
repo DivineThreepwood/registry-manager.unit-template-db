@@ -10,5 +10,5 @@
       }
     ]
   },
-  "type": "DEVICE"
+  "unit_type": "DEVICE"
 }

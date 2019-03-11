@@ -10,5 +10,5 @@
       }
     ]
   },
-  "type": "AUTHORIZATION_GROUP"
+  "unit_type": "AUTHORIZATION_GROUP"
 }

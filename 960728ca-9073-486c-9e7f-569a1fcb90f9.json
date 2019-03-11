@@ -10,5 +10,5 @@
       }
     ]
   },
-  "type": "RFID"
+  "unit_type": "RFID"
 }

@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "TEMPERATURE_CONTROLLER",
+  "unit_type": "TEMPERATURE_CONTROLLER",
   "service_description": [
     {
       "service_template_id": "0512aab5-78cf-4464-b699-078f6f3dfdc9",

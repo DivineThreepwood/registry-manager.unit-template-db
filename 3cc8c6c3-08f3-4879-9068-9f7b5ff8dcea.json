@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "CONNECTION",
+  "unit_type": "CONNECTION",
   "service_description": [
     {
       "service_template_id": "eb544f83-26c3-45f6-93da-5b9599de6049",

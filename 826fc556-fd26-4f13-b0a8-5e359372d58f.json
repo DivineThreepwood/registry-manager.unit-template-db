@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "DIMMABLE_LIGHT",
+  "unit_type": "DIMMABLE_LIGHT",
   "super_type": [
     "LIGHT"
   ],

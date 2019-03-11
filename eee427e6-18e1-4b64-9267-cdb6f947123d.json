@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "MONITOR",
+  "unit_type": "MONITOR",
   "service_description": [
     {
       "service_template_id": "c3724ed5-4092-4142-8355-c1aea22d208f",

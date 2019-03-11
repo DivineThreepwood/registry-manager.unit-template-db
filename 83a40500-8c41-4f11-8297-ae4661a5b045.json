@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "AUDIO_SOURCE",
+  "unit_type": "AUDIO_SOURCE",
   "meta_config": {
     "entry": [
       {

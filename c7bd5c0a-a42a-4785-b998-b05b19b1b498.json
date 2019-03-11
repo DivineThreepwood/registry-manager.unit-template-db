@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "SMOKE_DETECTOR",
+  "unit_type": "SMOKE_DETECTOR",
   "service_description": [
     {
       "service_template_id": "f33ce258-1d4d-4c0b-8721-8793494ea035",

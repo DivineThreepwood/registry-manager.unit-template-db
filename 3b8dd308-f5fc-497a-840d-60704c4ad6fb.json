@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "UNIT_GROUP",
+  "unit_type": "UNIT_GROUP",
   "service_description": [
     {
       "service_template_id": "0f9527d7-d6f8-4a09-af14-1a8d91c264bd",

@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "APP",
+  "unit_type": "APP",
   "service_description": [
     {
       "service_template_id": "f75053d2-7345-4928-ade6-eb3b4486ced9",

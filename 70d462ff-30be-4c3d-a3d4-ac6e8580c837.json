@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "DIMMER",
+  "unit_type": "DIMMER",
   "super_type": [
     "LIGHT"
   ],

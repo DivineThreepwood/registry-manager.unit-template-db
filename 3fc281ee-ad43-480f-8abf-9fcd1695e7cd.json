@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "ROLLER_SHUTTER",
+  "unit_type": "ROLLER_SHUTTER",
   "service_description": [
     {
       "service_template_id": "a2175895-7dcf-4d51-96aa-dcb01b47ed04",
