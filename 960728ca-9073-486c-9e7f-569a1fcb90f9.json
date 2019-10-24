@@ -5,10 +5,10 @@
       {
         "key": "en",
         "value": [
-          "Rfid"
+          "RFID Terminal"
         ]
       }
     ]
   },
-  "unit_type": "RFID"
+  "unit_type": "RFIDTerminal"
 }
