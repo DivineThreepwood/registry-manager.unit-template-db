@@ -1,0 +1,28 @@
+{
+  "id": "c7719aab-f2e0-44b9-837b-4da22d2fbdc3",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Gateway"
+        ]
+      }
+    ]
+  },
+  "unit_type": "GATEWAY",
+  "service_description": [
+    {
+      "service_template_id": "b5e9c478-f1a6-4386-898e-d8b56769505b",
+      "service_type": "DISCOVERY_STATE_SERVICE",
+      "meta_config": {}
+    },
+    {
+      "service_template_id": "b5e9c478-f1a6-4386-898e-d8b56769505b",
+      "service_type": "DISCOVERY_STATE_SERVICE",
+      "pattern": "OPERATION",
+      "meta_config": {}
+    }
+  ],
+  "meta_config": {}
+}
