@@ -1,3 +1,4 @@
+#!/bin/bash
 ### db auto release script
 
 VERSION=$(cat .db-version | (read; jq -r '.version'))
