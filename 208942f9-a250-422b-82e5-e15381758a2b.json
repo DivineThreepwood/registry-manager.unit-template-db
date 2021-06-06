@@ -148,7 +148,10 @@
   ],
   "meta_config": {
     "entry": [
-      {}
+      {
+        "key": "PHYSICAL_PROPERTIES",
+        "value": "HUMIDITY,NOISE,LIGHT,SMELL,SMOKE,OXYGEN,TEMPERATURE"
+      }
     ]
   }
 }
