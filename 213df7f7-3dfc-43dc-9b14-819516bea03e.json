@@ -57,6 +57,10 @@
       {
         "key": "PHYSICAL_PROPERTIES",
         "value": "LIGHT"
+      },
+      {
+        "key": "HASS_ENTITY_TYPE",
+        "value": "light"
       }
     ]
   }
